@@ -7,6 +7,8 @@ Case Objective:
 Group members: 
 -Joseph L. Senesie (Project Manager)
 -Zamarah J. Salinas (Scribe)
--Michael J. Roller (Lead Investigator)
+-Michael J. Roller (Evidence Analyst)
 
 Key Deliverables: 
+
+Tools: 
