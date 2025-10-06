@@ -13,7 +13,17 @@ Analyze browser history and device image for protentionaly dangerous websites us
 
 ## Tools and evidances 
 - Android 13 (Device Image)
-
+    ## Hardware Tools
+- Forensic workstation or laptop – isolated and secured environment for analysis.
+- Write blockers – prevent alteration of data during acquisition
+- SIM card readers – extract data directly from SIM cards.
+- Cables and adapters
+- JTAG kits – connect to test access ports to extract memory data.
+    ## Software Tools
+- Cellebrite UFED / Cellebrite Physical Analyzer – industry standard for logical, file system, and physical extraction.
+- Magnet AXIOM – performs acquisition and deep analysis of iOS and Android data.
+- Oxygen Forensic Detective – offers broad device support and in-depth app data analysis.
+- MSAB XRY – another professional-grade suite for extracting and analyzing data.
 
 ## Key Deliverables: 
 - Case Objective
