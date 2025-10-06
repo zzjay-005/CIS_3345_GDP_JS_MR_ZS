@@ -5,7 +5,7 @@
 - Joseph L. Senesie (Project Manager)
 - Zamarah J. Salinas (Scribe)
 - Michael J. Roller (Evidence Analyst)
-##Case Objective: 
+## Case Objective: 
 
 ## Key Foresics:
 Identify collected data that was deleted within trash folder, discover list of contacts found with in the user phone and find voicemails.
