@@ -1,5 +1,5 @@
 # CIS_3345_JS_MR_ZS
-## Project - 
+## Project - Stalker Ransom of Victim 
 ### Domain - Mobile
 ## Group members: 
 - Joseph L. Senesie (Project Manager)
