@@ -6,6 +6,7 @@
 - Zamarah J. Salinas (Scribe)
 - Michael J. Roller (Evidence Analyst)
 ## Case Objective: 
+A Person is reporting that they are receviving fequent calls and texts from a unknown number and a unknown ID, they have blocked each time but they keep getting calls and text messages. Person believe they are being targeted and stalked. The caller mention they have collected sensitive information of person and thearten to leak the infomation into the internet.
 
 ## Key Foresics:
 Identify collected data that was deleted within trash folder, discover list of contacts found with in the user phone and find voicemails.
