@@ -50,7 +50,7 @@ Documentation of findings and forensic processes.
 
 Team will not: SIM cloning, live network traffic analysis, collection of stalker physical location, use real-world victim data was used (only the provided forensic image is analyzed).
 
-##Forensic Process 
+## Forensic Process 
 
 Identification 
 Preservation 
@@ -59,13 +59,13 @@ Examination
 Analysis 
 Reporting 
 
-##Ethical & Legal Considerations 
+## Ethical & Legal Considerations 
 
 -All work was performed on publicly available sample data from DigitalCorpora. 
 -No real victim, suspect, or private individuals were involved in this investigation. 
 -All work adheres to academic integrity policies and digital forensic ethical standards. 
 
-##References 
+## References 
 
 -DigitalCorpora Sample Images (Android 13)
 -Autopsy/sleuthkit User Guide
@@ -74,6 +74,6 @@ Reporting
 -NIST Mobile Forensics Guidelines 
 -SWGDE Best Practices for Mobile Device Forensics 
 
-##License
+## License
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
