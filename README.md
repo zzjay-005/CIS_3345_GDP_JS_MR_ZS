@@ -50,31 +50,34 @@ Team will perform:
 - Documentation of findings and forensic processes. 
 
 Team will not be performing: 
-SIM cloning, live network traffic analysis, collection of stalker physical location, use real-world victim data was used (only the provided forensic image is analyzed).
+- SIM cloning
+- live network traffic analysis
+- Collection of stalker physical location
+- Use real-world victim data was used (only the provided forensic image is analyzed)
 
 ## Forensic Process 
 
-Identification 
-Preservation 
-Acquisition 
-Examination 
-Analysis 
-Reporting 
+- Identification 
+- Preservation 
+- Acquisition 
+- Examination 
+- Analysis 
+- Reporting 
 
 ## Ethical & Legal Considerations 
 
--All work was performed on publicly available sample data from DigitalCorpora. 
--No real victim, suspect, or private individuals were involved in this investigation. 
--All work adheres to academic integrity policies and digital forensic ethical standards. 
+- All work was performed on publicly available sample data from DigitalCorpora. 
+- No real victim, suspect, or private individuals were involved in this investigation. 
+- All work adheres to academic integrity policies and digital forensic ethical standards. 
 
 ## References 
 
--DigitalCorpora Sample Images (Android 13)
--Autopsy/sleuthkit User Guide
--Cellebrite UFED Documentation 
--Magnet AXIOM User Guide 
--NIST Mobile Forensics Guidelines 
--SWGDE Best Practices for Mobile Device Forensics 
+- DigitalCorpora Sample Images (Android 13)
+- Autopsy/sleuthkit User Guide
+- Cellebrite UFED Documentation 
+- Magnet AXIOM User Guide 
+- NIST Mobile Forensics Guidelines 
+- SWGDE Best Practices for Mobile Device Forensics 
 
 ## License
 This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/)
