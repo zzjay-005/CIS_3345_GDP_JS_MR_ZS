@@ -80,6 +80,6 @@ Team will not be performing:
 - SWGDE Best Practices for Mobile Device Forensics 
 
 ## License
-This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License,](https://creativecommons.org/licenses/by-nc/4.0/) and MIT license.
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), and MIT license.
 
 
