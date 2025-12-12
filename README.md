@@ -82,4 +82,19 @@ Team will not be performing:
 ## License
 This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), and MIT license.
 
+## contrubituions 
+| Metric                   | Value      |
+| ------------------------ | ---------- |
+| **Total Tasks Assigned** | **26**     |
+| **Completed**            | **18**     |
+| **In-Progress**          | **3**      |
+| **Remaining**            | **10**     |
+| **Overall Completion**   | **69.23%** |
+
+| Name        | Role              | Assigned | Completed | Contribution % | Points |
+| ----------- | ----------------- | -------- | --------- | -------------- | ------ |
+| **Joseph**  | Project Manager   | 11       | 8         | **72.73%**     |      |
+| **Michael** | Evidence Analysis | 5        | 5         | **100%**       |      |
+| **Zamarah** | Scribe            | 7        | 7         | **100%**       |      |
+
 
