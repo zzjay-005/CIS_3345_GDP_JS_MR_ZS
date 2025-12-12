@@ -86,15 +86,14 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 
 | Metric                   | Value      |
 | ------------------------ | ---------- |
 | **Total Tasks Assigned** | **26**     |
-| **Completed**            | **18**     |
-| **In-Progress**          | **3**      |
-| **Remaining**            | **10**     |
-| **Overall Completion**   | **69.23%** |
+| **Completed**            | **21**     |
+| **In-Progress**          | **5**      |
+| **Overall Completion**   | **80.70%** |
 
 | Name        | Role              | Assigned | Completed | Contribution % | Points |
 | ----------- | ----------------- | -------- | --------- | -------------- | ------ |
-| **Joseph**  | Project Manager   | 11       | 8         | **72.73%**     |      |
-| **Michael** | Evidence Analysis | 5        | 5         | **100%**       |      |
-| **Zamarah** | Scribe            | 7        | 7         | **100%**       |      |
+| **Joseph**  | Project Manager   | 11       | 11         | **100%**     |    47  |
+| **Michael** | Evidence Analysis | 5        | 5         | **100%**       |   24   |
+| **Zamarah** | Scribe            | 7        | 7         | **100%**       |   35   |
 
 
